@@ -1,6 +1,7 @@
 {
-  "name": "irwan-tea",
-  "version": "1.1.4",
+  "name": "irwantea",
+  "version": "0.1.0",
+  "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
@@ -22,17 +23,5 @@
     "eslint": "^9",
     "eslint-config-next": "15.3.2",
     "@eslint/eslintrc": "^3"
-  },
-  "description": "This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/irwan11795/irwantea"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/irwan11795/irwantea/issues"
-  },
-  "homepage": "https://github.com/irwan11795/irwantea#readme"
+  }
 }
